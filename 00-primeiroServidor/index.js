@@ -1,5 +1,5 @@
-const lodash = require("lodash")
-const express = require("express");
+const lodash = require("lodash");
+const express = require('express');
 const app = express();
 const usuarios = [
   { id: 11, nome: "joao", idade: 23 },
